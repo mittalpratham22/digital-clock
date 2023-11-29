@@ -1,3 +1,7 @@
+# Digital clock based on react
+
+This project displays the local time of the device using ReactJS library of JavaScript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
